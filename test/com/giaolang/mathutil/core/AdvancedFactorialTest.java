@@ -36,7 +36,8 @@ public class AdvancedFactorialTest {
                                  {3, 6},
                                  {4, 24},
                                  {5, 120},  
-                                 {6, 120}
+                                 {6, 720},  //GREEN
+                                 {0, 1}       
                                };
     }
     
